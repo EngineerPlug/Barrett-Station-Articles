@@ -1,0 +1,27 @@
+{
+  "name": "barrett-station-articles",
+  "version": "1.0.0",
+  "description": "This project is only for barrett station articles",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineerPlug/Barrett-Station-Articles.git"
+  },
+  "author": "Afri-Culture Concepts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngineerPlug/Barrett-Station-Articles/issues"
+  },
+  "homepage": "https://github.com/EngineerPlug/Barrett-Station-Articles#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
